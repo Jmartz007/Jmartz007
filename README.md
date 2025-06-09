@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jmartz007
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python, SQL
+- 👀 I’m interested in Data Analytics, and full stack development
+- 🌱 Kowledgeable in Python, Java, Javascript, SQL. 
 - 💞️ I’m looking to collaborate on data analytics projects
 - 📫 How to reach me on discord: AgentJmartz#4684
 
